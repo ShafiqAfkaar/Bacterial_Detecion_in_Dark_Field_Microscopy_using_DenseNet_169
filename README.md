@@ -1,4 +1,4 @@
-# 🧫 Bacteria Classification using DenseNet169 
+# 🧫 Bacteria Detection and enumeration using DenseNet169 
 
 This project uses a customized **DenseNet-169** deep learning model for classifying microscope images of bacteria into **positive** and **negative** categories. The model is trained using high-resolution `.tif` image files and leverages transfer learning with PyTorch and torchvision.
 
